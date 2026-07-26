@@ -1,0 +1,16 @@
+{
+  "name": "行こっ家 グアム旅行プラン",
+  "short_name": "行こっ家",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f9fcfc",
+  "theme_color": "#11b7c9",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
